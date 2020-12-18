@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title scene.unity
+    guid: 9c84eb4c248cc6848ae71f4a141b180e
+  - enabled: 1
+    path: Assets/Scenes/tutorialy levels/How Buttons Work.unity
+    guid: dc7e4073c484f7944988bb934795b941
+  - enabled: 1
+    path: Assets/Scenes/tutorialy levels/Sokoban Test.unity
+    guid: 33ffa1b67fbe035439f980aff8b2a12f
+  - enabled: 1
+    path: Assets/Scenes/tutorialy levels/forced reduce.unity
+    guid: 4e16b000205d5224ebeb4a318a4509e7
+  - enabled: 1
+    path: Assets/Scenes/tutorialy levels/forced increase.unity
+    guid: 5206eb0f2884a944db12a05810c9984f
+  - enabled: 1
+    path: Assets/Scenes/tutorialy levels/forced remain.unity
+    guid: 0e035ae0213f98545aad0a9629ec5b8e
+  - enabled: 1
+    path: Assets/Scenes/tutorialy levels/forced cycle.unity
+    guid: 931cde6d6d7bddc438b629653b71a4e6
+  - enabled: 1
+    path: Assets/Scenes/tutorialy levels/sokoban test 2.unity
+    guid: a09f9625b618447409905945f3697783
+  - enabled: 1
+    path: Assets/Scenes/tutorialy levels/teach diagonals.unity
+    guid: 4d8c3c5c06970ed4cab11772673c02d2
+  - enabled: 1
+    path: Assets/Scenes/tutorialy levels/teach waiting.unity
+    guid: 365b108efe51e264e9033ef2a065b4dd
+  - enabled: 1
+    path: Assets/Scenes/puzzles/test waiting.unity
+    guid: 5dbf9f0d83187cb499ba2c21827ab40c
+  - enabled: 1
+    path: Assets/Scenes/puzzles/increase test.unity
+    guid: d85cf1a71cb85764283879b3e0dec40a
+  - enabled: 1
+    path: Assets/Scenes/puzzles/compact transfer.unity
+    guid: e10bfe169bcaba746ab1cfd9015a0706
+  - enabled: 1
+    path: Assets/Scenes/puzzles/decrease test and remake behind you I guess.unity
+    guid: 97f072b0a55a68343992aa59fa24647b
+  - enabled: 1
+    path: Assets/Scenes/puzzles/growing around corners.unity
+    guid: 2e4d27c356c3bbc48ad47602fa068dc7
+  - enabled: 1
+    path: Assets/Scenes/puzzles/narrow gate.unity
+    guid: 54974cd5e13d6e14ab160d949971613e
+  - enabled: 1
+    path: Assets/Scenes/puzzles/oscillating safety.unity
+    guid: 6955dc6ea8298bd4e8c354ad8f9cda80
+  - enabled: 1
+    path: Assets/Scenes/puzzles/wick.unity
+    guid: 7e1d6554e3a953a4c80b34cf84be6753
+  - enabled: 1
+    path: Assets/Scenes/puzzles/Overpopulated.unity
+    guid: cb825f7e97ec70e45adeebe0d234189d
+  - enabled: 1
+    path: Assets/Scenes/puzzles/syncro.unity
+    guid: a5d5d9c13bbd5364b840af7c376a81e0
+  - enabled: 1
+    path: Assets/Scenes/puzzles/suicide.unity
+    guid: e2a07ac3567308d4da4213f78e2a7d5e
+  - enabled: 1
+    path: Assets/Scenes/puzzles/participate.unity
+    guid: 5f9f8d05c686f8b4c824d5e835ccfcc2
+  - enabled: 1
+    path: Assets/Scenes/you win.unity
+    guid: 2b297663dd5b1d1448703c0d845fa0fa
+  m_configObjects: {}
